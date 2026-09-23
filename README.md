@@ -4,7 +4,7 @@ Study Notes is a small, private note-taking web application. Users can register,
 
 ## Live application
 
-Deployment link: _add after Netlify deployment_
+[Open the deployed Study Notes app](https://spiffy-kringle-a6ac47.netlify.app/)
 
 ## Demo video
 
