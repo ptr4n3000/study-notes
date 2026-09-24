@@ -8,7 +8,7 @@ Study Notes is a small, private note-taking web application. Users can register,
 
 ## Demo video
 
-Unlisted YouTube video: _add before submission_
+(https://youtu.be/dbOx-bRCFsQ)
 
 ## Features
 
